@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Source\\Repos\\Dantrx19\\MOANSO\\EjemploGIT_G2.csproj": {}
+    "C:\\Users\\ACER\\Source\\Repos\\MOANSO\\EjemploGIT_G2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Source\\Repos\\Dantrx19\\MOANSO\\EjemploGIT_G2.csproj": {
+    "C:\\Users\\ACER\\Source\\Repos\\MOANSO\\EjemploGIT_G2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Source\\Repos\\Dantrx19\\MOANSO\\EjemploGIT_G2.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Source\\Repos\\MOANSO\\EjemploGIT_G2.csproj",
         "projectName": "EjemploGIT_G2",
-        "projectPath": "C:\\Users\\ACER\\Source\\Repos\\Dantrx19\\MOANSO\\EjemploGIT_G2.csproj",
+        "projectPath": "C:\\Users\\ACER\\Source\\Repos\\MOANSO\\EjemploGIT_G2.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Source\\Repos\\Dantrx19\\MOANSO\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Source\\Repos\\MOANSO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
